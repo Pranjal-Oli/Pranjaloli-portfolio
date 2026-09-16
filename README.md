@@ -15,8 +15,6 @@ This portfolio highlights my work across:
 
 | Project | Description |
 |---|---|
-| **KineticSense** | ML punch classifier paired with ESP32-S3 smartwatch firmware and an Android companion app |
-| **Response Counter** | Android app built with Java and Firebase |
 | **TrackMyPD** | Undergraduate research project (SURE 2026): an Android app for at-home symptom tracking |
 
 ## Site Sections
