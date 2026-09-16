@@ -1,44 +1,70 @@
-# vCard - Personal portfolio
+# Pranjal Oli's Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A responsive personal portfolio website showcasing my projects, skills, and experience as a final-year Computer Science student at the University of Michigan–Flint. This site is customized from the open-source **vCard Personal Portfolio** template.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About
 
-## Demo
+This portfolio highlights my work across:
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- **Android development** (Java, Firebase)
+- **Machine learning**
+- **Embedded systems** and BLE firmware
+- **Networking and cybersecurity**
 
-## Prerequisites
+## Featured Projects
 
-Before you begin, ensure you have met the following requirements:
+| Project | Description |
+|---|---|
+| **KineticSense** | ML punch classifier paired with ESP32-S3 smartwatch firmware and an Android companion app |
+| **Response Counter** | Android app built with Java and Firebase |
+| **TrackMyPD** | Undergraduate research project (SURE 2026): an Android app for at-home symptom tracking |
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Site Sections
 
-## Installing vCard
+- **About**: a short introduction and areas of focus
+- **Resume**: education, experience, and skills
+- **Portfolio**: project cards filterable by category
+- **Blog**: posts and write-ups
+- **Contact**: contact form
 
-To install **vCard**, follow these steps:
+## Built With
 
-Linux and macOS:
+- HTML5
+- CSS3
+- JavaScript
+- [Ionicons](https://ionic.io/ionicons)
+
+## Getting Started
+
+No build tools are required.
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/Pranjal-Oli/Pranjaloli-portfolio.git
+cd Pranjaloli-portfolio
 ```
 
-Windows:
+Then open `index.html` in your browser. You can also use a local server such as the VS Code Live Server extension.
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+## Project Structure
+
+```
+├── index.html          # Main page
+├── assets/
+│   ├── css/            # Stylesheets
+│   ├── js/             # Scripts
+│   └── images/         # Images and icons
+├── content-notes.md    # Planning notes for site content
+├── LICENSE             # Original template license
+└── README.md
 ```
 
-## Contact
+## Customization Notes
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+- Personal contact details from the template (phone, birthday, location) were removed or replaced to protect privacy.
+- Placeholder content was replaced with my own projects and skills.
 
-## License
+## Credits and License
 
-MIT
+This project is based on [vCard Personal Portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) by **codewithsadee**.
+
+The original template is distributed under the MIT License. See [`LICENSE`](LICENSE) for details. The original copyright notice has been kept as the license requires.
