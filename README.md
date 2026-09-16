@@ -16,6 +16,7 @@ This portfolio highlights my work across:
 | Project | Description |
 |---|---|
 | **TrackMyPD** | Undergraduate research project (SURE 2026): an Android app for at-home symptom tracking |
+| **KineticSense** | Class research project: an ML punch classifier with ESP32-S3 smartwatch firmware and an Android companion app |
 
 ## Site Sections
 
