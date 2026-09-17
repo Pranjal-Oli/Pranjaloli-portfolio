@@ -23,8 +23,6 @@ This portfolio highlights my work across:
 - **About**: a short introduction and areas of focus
 - **Resume**: education, experience, and skills
 - **Portfolio**: project cards filterable by category
-- **Blog**: posts and write-ups
-- **Contact**: contact form
 
 ## Built With
 
@@ -56,11 +54,6 @@ Then open `index.html` in your browser. You can also use a local server such as 
 ├── LICENSE             # Original template license
 └── README.md
 ```
-
-## Customization Notes
-
-- Personal contact details from the template (phone, birthday, location) were removed or replaced to protect privacy.
-- Placeholder content was replaced with my own projects and skills.
 
 ## Credits and License
 
